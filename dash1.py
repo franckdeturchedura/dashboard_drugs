@@ -8,11 +8,12 @@ import plotly.graph_objs as go
 import folium
 import plotly
 import plotly_express as px
-#stylesheet pour avoir un petit style qui mets bien
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+import dash_bootstrap_components as dbc
+
+
 
 #création de l'application
-app = dash.Dash(__name__,external_stylesheets=external_stylesheets)
+app = dash.Dash(__name__,external_stylesheets=[dbc.themes.BOOTSTRAP])
 #app.scripts.config.serve_locally = False
 #app.config.serve_locally = False
 #app.css.append_css({'external_url':'https://codepen.io/amyoshino/pen/jzXypZ.css'})
@@ -89,9 +90,16 @@ df =df.fillna(0)
 
 
 def map_dash(year,drug):
-    data_json = 'world_countries.json'
-    dff = df[df['Year']==year]
-    dff = dff[dff['Drug Group']==drug]
+    if year==2000:
+        dff = df[df['Drug Group']==drug]
+        data_json = 'world_countries.json'
+
+    else:
+        data_json = 'world_countries.json'
+        dff = df[df['Year']==year]
+        dff = dff[dff['Drug Group']==drug]
+
+
 
     map_dash = folium.Map(location=[48.8534 , 2.3488],
         tiles='Stamen Toner',
@@ -114,6 +122,23 @@ def map_dash(year,drug):
     nan_fill_color = 'Black'
 ).add_to(map_dash)
 
+    for i in dff['Country']:
+        try:
+            lat = dff[dff['Country']==i]['Latitude']
+            long = dff[dff['Country']==i]['Longitude']
+            country = str(i)
+            diam = (dff[dff['Country']==i]['Best']).astype(float)
+            #diam = float(diam[0])
+            #diam_str = float(diam).astype(str)
+            diam = float(diam)
+            diam_str = str(diam)
+            #print(float(diam))
+            folium.CircleMarker(radius=diam*2,location=[lat,long],popup=country +' Rate ' +diam_str+'%',tooltip = 'Click here for more infos',color='crimson',fill='False').add_to(map_dash)
+        except:
+            pass
+
+
+
     """for i in list_coo:
         long = float(i[0])
         #print("Long : ")
@@ -123,9 +148,9 @@ def map_dash(year,drug):
         pays = str(pays)
         #print("LAt : ")
         #print(lat)
-        #folium.CircleMarker(radius=20,location=[lat,long],popup='Test',color='crimson',fill='False').add_to(map_dash)
+        folium.CircleMarker(radius=20,location=[lat,long],popup='Test',color='crimson',fill='False').add_to(map_dash)"""
 
-        folium.Marker(location=[lat,long], popup=pays, tooltip=tooltip, icon=folium.Icon(color='red', icon='info-sign')).add_to(map_dash)"""
+        #folium.Marker(location=[lat,long], popup=pays, tooltip=tooltip, icon=folium.Icon(color='red', icon='info-sign')).add_to(map_dash)
     return map_dash
 
 
@@ -143,14 +168,39 @@ def map_dash(year,drug):
 #map_dash.save('test_map1.html')
 
 #DASHBOARD
-
+import numpy as np
 available_indicators = df['Drug Group'].unique()
+
+
+#f['Year'] = df['Year'].add(pd.Series([2000]))
+print(type(df['Year'][0]))
+var = np.int64(2000)
 
 app.layout = html.Div([
 
-html.Div([
- html.H1('Test Map')
- ],className="row"),
+#html.Div([
+ #html.H2('Drugs Uses Around The World - DASHBOARD')
+ #], style = { 'textAlign': 'center' ,'justify-content':'center'}),
+
+        html.Div([dbc.NavbarSimple(
+    children=[
+        dbc.NavItem(dbc.NavLink("DL CSV", href="https://drive.google.com/open?id=1wOVP7D9uNAMd0Ks87RpWfvd-iJ1egqxp")),
+        dbc.DropdownMenu(
+            nav=True,
+            in_navbar=True,
+            label="Menu",
+            children=[
+                dbc.DropdownMenuItem("Entry 1"),
+                dbc.DropdownMenuItem("Entry 2"),
+                dbc.DropdownMenuItem(divider=True),
+                dbc.DropdownMenuItem("Entry 3"),
+            ],
+        ),
+    ],
+    brand="Drugs Uses Around The World - DASHBOARD",
+    brand_href="#",
+    sticky="top",
+)]),
 
         html.Div([
         #Permettra de choisir l'axe des abscisses qu'on veut
@@ -175,13 +225,15 @@ html.Div([
 
                        html.Div([dcc.Slider(
                        id='year_slider',
-        min=df['Year'].min(),
-        max=df['Year'].max(),
-        value=df['Year'].min(),
-        marks={str(year): str(year) for year in df['Year'].unique()},
+        #min=df['Year'].min(),
+        min = df['Year'].min(),
+        max=int(df['Year'].max()),
+
+        value=2000,
+        marks={'2000' : '2000'} and  {str(year): str(year) for year in df['Year'].unique()} ,
         step=None,
-                       )], style = {'width': '90%','margin-left':50, 'align-items': 'center' ,'justify-content':'center'})
-],className="row")
+                       )], style = {'width': '90%','margin-left':30, 'align-items': 'center' ,'justify-content':'center'})
+], style = {'width': '50%','align-items': 'center' ,'justify-content':'center'})
 ])
 
 from dash.dependencies import Input, Output
