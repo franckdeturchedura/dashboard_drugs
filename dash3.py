@@ -45,7 +45,7 @@ df = pd.read_csv("tempo.csv")
 
 #print(df)
 
-#On cle
+#On utilise un autre csv pour avoir les géolocalisations des pays de la premiere database
 df_gps = pd.read_csv("countries.csv")
 df_gps =df_gps.rename(columns={" 'Andorra')": "Country","            ('AD'":"Init",' 42.546245':"Latitude",' 1.601554':"Longitude"})
 df_gps['Country'][0].strip(")")
@@ -76,11 +76,12 @@ df_gps_clean = df_gps_clean.replace(df_gps_clean[df_gps_clean['Country']=='Vietn
 df_gps_clean.loc[234,'Country'] = 'Viet Nam'
 
 
-
+#df sera notre dataset final avec les coordonnées etc
 df=df.join(df_gps_clean.set_index('Country'), on='Country')
 
 print(df[0:10])
 
+#on peut retrouver notre nouveau dataset en csv comme ça
 df.to_csv('DataFrame.csv',sep='\t', encoding='utf-8')
 
 
