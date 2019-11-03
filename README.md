@@ -1,5 +1,8 @@
 # Mini Projet Python
 
+Franck Deturche-Dura
+Yasmine Djemame
+
 Voici la notice d'utilisation du Dashboard final.
 
 Sur le dashboard vous trouverez également un lien vers le CSV final utilisé (après modification dans le script de l'initial).
@@ -18,6 +21,16 @@ Pour que le dashboard fonctionne, il faut :
 
 Au cas où il y a un problème lié à Selenium et ChromeDriver pour le scrapping over JS, il existe une version sans selenium. Voilà comment y accéder :
     - Télécharger "dash_without_dynamic.py" dans la branche du même nom et reprendre les étapes citées précédemment.
+
+Dans la navbar :
+
+Vous trouverez un onglet contact avec nos noms et les liens vers nos LinkedIn si existants.
+Vous trouverez un bouton pour dowload le fichier csv comme expliqué précédemment.
+
+Il y a un slider et un dropdown pour la map. Les Markers sur la Map vous indique le nom du pays et le rate.
+Il y a un dropdown pour les deux graphes.
+Vous pouvez également accéder au Git via le bouton 'View Git'.
+Avec le bouton "Actualiser", vous pouvez connaître en temps réel la quantité d'argent dépensée dans les drogues illégales depuis le début de l'année dans le monde.
 
 
 Description - Analyse (Check ReadMe to see more):
