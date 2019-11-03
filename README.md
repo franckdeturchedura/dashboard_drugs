@@ -24,6 +24,8 @@ Pour que le dashboard fonctionne, il faut :
 Au cas où il y a un problème lié à Selenium et ChromeDriver pour le scrapping over JS, il existe une version sans selenium. Voilà comment y accéder :
     - Télécharger "dash_without_dynamic.py" dans la branche du même nom et reprendre les étapes citées précédemment.
 
+
+Nous avons utiisé bootstrap pour le design (via la librairie dash-bootstrap-components)
 Dans la navbar :
 
 Vous trouverez un onglet contact avec nos noms et les liens vers nos LinkedIn si existants.
