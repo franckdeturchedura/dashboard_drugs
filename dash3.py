@@ -1,3 +1,6 @@
+#On importe les librairies utiles
+
+
 import dash
 from dash import *
 import dash_core_components as dcc
@@ -20,28 +23,29 @@ d = webdriver.Chrome(executable_path='C:/Users/feld7/OneDrive/Documents/chromedr
 
 d.get('https://www.worldometers.info/drugs/')
 
-
+#fonction qui permet de scrapper la donnée dynamique (Spending on illegal drugs)
 def get_spending_drug():
 
     return d.find_element_by_css_selector('[rel="drug_spending/this_year"]').text
+
+
 #création de l'application
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.BOOTSTRAP])
-#app.scripts.config.serve_locally = False
-#app.config.serve_locally = False
-#app.css.append_css({'external_url':'https://codepen.io/amyoshino/pen/jzXypZ.css'})
+
 
 #on lit le fichier xlsx car le csv ne peut pas être lu
 file  = pd.read_excel("dataset.xlsx",encoding='utf-8')
+
+
 #on repasse le fichier en csv
 csv = file.to_csv('tempo.csv', encoding='utf-8', index=False)
 
 #on lit la dataframe et on la stocke dans df
 df = pd.read_csv("tempo.csv")
 
-print(df)
+#print(df)
 
-#utilisation de folium
-
+#On cle
 df_gps = pd.read_csv("countries.csv")
 df_gps =df_gps.rename(columns={" 'Andorra')": "Country","            ('AD'":"Init",' 42.546245':"Latitude",' 1.601554':"Longitude"})
 df_gps['Country'][0].strip(")")
@@ -98,8 +102,11 @@ type(df['Best'][0])
 df['Best'] = df['Best'].astype(str)
 df['Best'] = df['Best'].astype(float)
 
+
+#on remplace tous les nan par 0
 df =df.fillna(0)
 
+#on crée une fonction qui crée une map avec les deux paramètres qui seront au final donnés par les components.
 
 def map_dash(year,drug):
     if year==2002:
@@ -150,24 +157,12 @@ def map_dash(year,drug):
             pass
 
 
-
-    """for i in list_coo:
-        long = float(i[0])
-        #print("Long : ")
-        #print(long)
-        lat = float(i[1])
-        pays = dff[dff['Latitude']==lat]['Country']
-        pays = str(pays)
-        #print("LAt : ")
-        #print(lat)
-        folium.CircleMarker(radius=20,location=[lat,long],popup='Test',color='crimson',fill='False').add_to(map_dash)"""
-
         #folium.Marker(location=[lat,long], popup=pays, tooltip=tooltip, icon=folium.Icon(color='red', icon='info-sign')).add_to(map_dash)
     return map_dash
 
 
 
-
+#Pour le slider
 a = {str(year): str(year) for year in df['Year'].unique()}
 a['2002'] = 'All'
 
@@ -183,6 +178,9 @@ a['2002'] = 'All'
 #DASHBOARD
 import numpy as np
 available_indicators = df['Drug Group'].unique()
+
+#on bootstrap, c'est pour ça qu'il y a des col et des Row
+
 
 
 navbar = dbc.NavbarSimple(
