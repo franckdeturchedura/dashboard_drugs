@@ -33,6 +33,5 @@ Description - Analyse (Check ReadMe to see more):
     Sur le dashboard R, nous avons opté pour un autre dataset permettant une observation via Histogramme bien plus pertinente.
     
     
-    Voici un screen du dashboard final au cas où :
     
     
