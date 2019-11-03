@@ -15,7 +15,6 @@ import dash_table as dt
 from selenium import webdriver
 import os
 
-"""
 os.chmod('C:/Users/feld7/OneDrive/Documents/chromedriver/chromedriver.exe', 755)
 d = webdriver.Chrome(executable_path='C:/Users/feld7/OneDrive/Documents/chromedriver/chromedriver.exe')
 
@@ -25,7 +24,6 @@ d.get('https://www.worldometers.info/drugs/')
 def get_spending_drug():
 
     return d.find_element_by_css_selector('[rel="drug_spending/this_year"]').text
-"""
 #création de l'application
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.BOOTSTRAP])
 #app.scripts.config.serve_locally = False
@@ -275,23 +273,9 @@ Nous constatons que via la Map que les drogues douces (cannabis) sont bien plus 
         ),#row
         dbc.Row([]),
         dbc.Row([
-        dbc.Col([
-
-    #    html.Div([
-    #    html.P(""),
-        #html.H2("Spending on Drugs this year")], style = {'width': '90%','margin-left':30, 'textAlign': 'center' ,'justify-content':'center'}),
-        #html.Div([
-        #html.H2(id="spend"),
-        #html.H2(str(get_spending_drug() + "$")),
-        #dbc.Button("Actualiser",id="button_spend", color="secondary"),
-
-    #    ], style = {'width': '90%','margin-left':30, 'textAlign': 'center' ,'justify-content':'center'}),
-        ]),
-        ]),
-        dbc.Row([
 
         dbc.Col([
-        html.H1(""),
+        html.H3(""),
             dcc.Graph(id='histo')
             ]),
         dbc.Col([
@@ -327,12 +311,14 @@ def update_iframe(year_value,drugs_choice):
     else:
         return [{}]
 
-#@app.callback(Output("spend","children"),[Input("button_spend","n_clicks")])
-#def on_button_click(n):
-#    if n !=0:
-#        return str(get_spending_drug()) + "$"
-#    else:
-#        return str(get_spending_drug()) + "$"
+@app.callback(Output("spend","children"),[Input("button_spend","n_clicks")])
+def on_button_click(n):
+    if n !=0:
+        return str(get_spending_drug()) + "$"
+    else:
+        return str(get_spending_drug()) + "$"
+
+
 
 @app.callback(Output('histo','figure'),[Input('drugs_choice_histo','value')])
 
@@ -358,6 +344,9 @@ def update_histo(drug_choice):
         }
     else:
         return [{}]
+
+
+
 
 
 @app.callback(Output('scatter','figure'),[Input('drugs_choice_histo','value')])
