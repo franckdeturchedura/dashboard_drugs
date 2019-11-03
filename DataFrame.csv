@@ -1,0 +1,537 @@
+	Adjustment	Age Group	Best	Comments	Country	Drug Group	High	Low	Method	Source	Year	Longitude	Latitude
+0	 	15-64	0,2	 	Turkey	Amphetamines			 	UNODC Estimate	2003	 35.243322	 38.963745
+1	 	15-64	0,1	 	Zambia	Amphetamines			 	UNODC Estimate	2003	 27.849332	 -13.133897
+2	d	15-64	0,76	 	Nicaragua	Amphetamines			 	UNODC Estimate	2003	 -85.207229	 12.865416
+3	h	15-64	0,224714914	 	Viet Nam	Amphetamines			 	UNODC Estimate	2003	 108.277199	 14.058324
+4	 	15-64	0,02	 	Albania	Amphetamines			 	ARQ	2004	 20.168331	 41.153332
+5	 	15-64	0,2	 	Greece	Amphetamines			 	ARQ	2004	 21.824312	 39.074208
+6	d, e	15-64	0,6	 	Cambodia	Amphetamines			 	UNODC Estimate	2004	 104.990963	 12.565679
+7	 	déc-64	0,6	 	Taiwan Province of China	Amphetamines			 	AMCEWG	2005		
+8	 	15-64	0,7	 	Grenada	Amphetamines			 	ARQ	2005	 -61.604171	 12.262776
+9	d, e	15-64	0,91	 	Guatemala	Amphetamines			 	UNODC Estimate	2005	 -90.230759	 15.783471
+10	d, f	15-64	0,22	 	Myanmar	Amphetamines			 	UNODC Estimate	2005		
+11	d, g, h	15-64	0,55	 	Malaysia	Amphetamines			 	UNODC Estimate	2005	 101.975766	 4.210484
+12	d,e	15-64	0,84	 	Honduras	Amphetamines			 	UNODC Estimate	2005	 -86.241905	 15.199999
+13	g	15-64	0,27	 	Kuwait	Amphetamines			 	UNODC Estimate	2005	 47.481766	 29.31166
+14	g	15-64	0,35	 	Belarus	Amphetamines			 	UNODC Estimate	2006	 27.953389	 53.709807
+15	g	15-64	0,25	 	Brunei Darussalam	Amphetamines			 	UNODC Estimate	2006		
+16	g	15-64	0,4	 	Saudi Arabia	Amphetamines			 	UNODC Estimate	2006	 45.079162	 23.885942
+17	z	déc-65	1,2	 	Panama	Amphetamines			HHS	CICAD	2003	 -80.782127	 8.537981
+18	b, c, e	15-64	0,12	 	Republic of Korea	Amphetamines	0,16	0,08	HHS	ARQ	2004		
+19	z**	déc-65	0,7	 	Brazil	Amphetamines			HHS	ARQ	2005	 -51.92528	 -14.235004
+20	z	déc-65	1,35	 	Belize	Amphetamines			HHS	CICAD	2005	 -88.49765	 17.189877
+21	 	15-64	0,04	 	Armenia	Amphetamines			HHS	UNODC Estimate	2005	 45.038189	 40.069099
+22	z	déc-65	0,2	 	Barbados	Amphetamines			HHS	CICAD	2006	 -59.543198	 13.193887
+23	 	déc-65	1,4	 	Thailand	Amphetamines			HHS	ARQ	2007	 100.992541	 15.870032
+24	 	déc-65	0,5	 	Suriname	Amphetamines			HHS	CICAD	2007	 -56.027783	 3.919305
+25	 	déc-65	0,5	Includes prescription stimulants	Bolivia (Plurinational State of)	Amphetamines			HHS	ARQ	2007		
+26	z*	15-64	0,2	 	Ecuador	Amphetamines			HHS	ARQ	2007	 -78.183406	 -1.831239
+27	 	18-64	0,5	 	Hungary	Amphetamines	0,8	0,2	HHS	ARQ	2007	 19.503304	 47.162494
+28	 	déc-65	0,06	The previous estimate published by UNODC for 2011 was based on a school survey. In consultation with the Member State that estimate has now been replaced by one provided in the 2008 household survey	Colombia	Amphetamines			HHS	ARQ	2008	 -74.297333	 4.570868
+29	 	15-64	1	 	Estonia	Amphetamines			HHS	ARQ	2008	 25.013607	 58.595272
+30	a, b, e	15-64	1,4	 	Nigeria	Amphetamines	2,014534085	0,707207081	HHS	ARQ	2008	 8.675277	 9.081999
+31	a, e	15-64	1,02	 	South Africa	Amphetamines	1,37	0,747	HHS	ARQ	2008	 22.937506	 -30.559482
+32	a	15-64	0,5	 	Austria	Amphetamines			HHS	Government source	2008	 14.550072	 47.516231
+33	c, e	15-64	2,13	 	Philippines	Amphetamines	2,35	1,91	HHS	Government source	2008	 121.774017	 12.879721
+34	e	15-64	0,03	 	Republic of Moldova	Amphetamines	0,04	0,03	HHS	Government source	2008		
+35	 	15-64	0,001	 	Afghanistan	Amphetamines			HHS	UNODC/ Govt. Source	2009	 67.709953	 33.93911
+36	 	16-65	0,1	 	Bermuda	Amphetamines	0,1	0,001	HHS	Government source	2009	 -64.75737	 32.321384
+37	 	18-40	1,01	 	Israel	Amphetamines			HHS	ARQ	2009	 34.851612	 31.046051
+38	 	oct-60	0,18	 	Indonesia	Amphetamines			HHS	ARQ	2010	 113.921327	 -0.789275
+39	z**	déc-65	0,11	 	Peru	Amphetamines			HHS	ARQ	2010	 -75.015152	 -9.189967
+40	 	12+	0,03	 	Algeria	Amphetamines			HHS	ARQ	2010	 1.659626	 28.033886
+41	 	15-64	0,8	 	Finland	Amphetamines			HHS	ARQ	2010	 25.748151	 61.92411
+42	z**	15-64	1,1	 	Costa Rica	Amphetamines			HHS	ARQ	2010	 -83.753428	 9.748917
+43	 	15-64	0,12	 	Slovakia	Amphetamines			HHS	EMCDDA	2010	 19.699024	 48.669026
+44	 	déc-65	0,12	 	Mexico	Amphetamines	0,193	0,042	HHS	Government Source	2011	 -102.552784	 23.634501
+45	 	15-64	0,4	 	Ireland	Amphetamines			HHS	ARQ	2011	 -8.24389	 53.41291
+46	 	15-64	0,3	 	Latvia	Amphetamines			HHS	ARQ	2011	 24.603189	 56.879635
+47	e	15-64	0,3	 	Japan	Amphetamines	0,4	0,03	HHS	UNODC Estimate	2011	 138.252924	 36.204824
+48	 	15-64	1,1	Data refers to 2010/11	United Kingdom (Northern Ireland)	Amphetamines			HHS	Government source	2011		
+49	z*	15-64	0,469576273	Includes prescription stimulants	Venezuela (Bolivarian Republic of)	Amphetamines	0,531569634	0,407582912	HHS	Government source	2011		
+50	z**	16-65	0,1	 	Argentina	Amphetamines			HHS	Government source (only includes prescription stim	2011	 -63.616672	 -38.416097
+51	 	15-64	0,65	 	Bulgaria	Amphetamines	0,7	0,6	HHS	ARQ	2012	 25.48583	 42.733883
+52	 	15-64	0,3	 	Cyprus	Amphetamines			HHS	ARQ	2012	 33.429859	 35.126413
+53	 	15-64	0,2	 	Lithuania	Amphetamines			HHS	ARQ	2012	 23.881275	 55.169438
+54	 	15-64	0,05	 	Portugal	Amphetamines			HHS	ARQ	2012	 -8.224454	 39.399872
+55	 	15-64	0,3	 	Slovenia	Amphetamines			HHS	ARQ	2012	 14.995463	 46.151241
+56	 	15-64	0,8	 	Croatia	Amphetamines			HHS	EMCDDA	2012	 15.2	 45.1
+57	 	15-64	0,1	 	Maldives	Amphetamines			HHS	Government source	2012	 73.22068	 3.202778
+58	 	18-64	0,7	 	Germany	Amphetamines			HHS	ARQ	2012	 10.451526	 51.165691
+59	z*	14+	2,1	Methamphetamine	Australia	Amphetamines			HHS	Government source	2013	 133.775136	 -25.274398
+60	 	15-64	0,5	 	Belgium	Amphetamines			HHS	ARQ	2013	 4.469936	 50.503887
+61	 	15-64	0,27	 	Switzerland	Amphetamines			HHS	ARQ	2013	 8.227512	 46.818188
+62	 	15-64	0,2	 	Czech Republic	Amphetamines	0,2	0,2	HHS	ARQ	2013	 15.472962	 49.817492
+63	 	15-64	0,6	 	Spain	Amphetamines			HHS	ARQ	2013	 -3.74922	 40.463667
+64	 	15-64	0	 	Malta	Amphetamines			HHS	ARQ	2013	 14.375416	 35.937496
+65	 	15-64	0,1	Amphetamine	Romania	Amphetamines			HHS	ARQ	2013	 24.96676	 45.943161
+66	 	15-64	0,2	Data refers to 2013/2014	Italy	Amphetamines			HHS	Government source	2013	 12.56738	 41.87194
+67	z*	15+	0,2	Amphetamines	Canada	Amphetamines			HHS	ARQ	2013	 -106.346771	 56.130366
+68	 	16-59	0,8	Data refers to 2013/14. Crime Survey for England and Wales. Data relating to before 2013/14 may vary slightly from more recent data published due to revised reference population.	United Kingdom (England and Wales)	Amphetamines			HHS	ARQ	2013		
+69	 	16-64	0,6	 	Denmark	Amphetamines			HHS	ARQ	2013	 9.501785	 56.26392
+70	 	16-64	0,9	Data refers to 2012/13	United Kingdom (Scotland)	Amphetamines			HHS	Government source	2013		
+71	 	17-64	0,72	 	Sweden	Amphetamines			HHS	ARQ	2013	 18.643501	 60.128161
+72	z**	déc-65	0,38	Includes prescription stimulants	El Salvador	Amphetamines	0,54	0,24	HHS	Government Source	2014	 -88.89653	 13.794185
+73	 	15-64	0,3	 	France	Amphetamines			HHS	ARQ	2014	 2.213749	 46.227638
+74	 	15-64	1,1	2013/14 New Zealand Health Survey	New Zealand	Amphetamines	1,4	0,8	HHS	Government source	2014	 174.885971	 -40.900557
+75	 	15-64	0,06	Amphetamines	Chile	Amphetamines			HHS	ARQ	2014	 -71.542969	 -35.675147
+76	z*	15-64	1,96	Amphetamines	United States of America	Amphetamines			HHS	ARQ	2014		
+77	 	15-64	0,2	Data refers to 2014/2015	Poland	Amphetamines			HHS	ARQ	2014	 19.145136	 51.919438
+78	z	15-65	0,04	Includes prescription stimulants	Uruguay	Amphetamines			HHS	ARQ	2014	 -55.765835	 -32.522779
+79	 	16-64	1,3	 	Netherlands	Amphetamines			HHS	ARQ	2014	 5.291266	 52.132633
+80	 	16-64	0,6	 	Norway	Amphetamines			HHS	ARQ	2014	 8.468946	 60.472024
+81	 	18-64	0,1	 	Serbia	Amphetamines			HHS	Government sources	2014	 21.005859	 44.016521
+82	a, b, d	15-64	0,48	 	Egypt	Amphetamines	0,52	0,43	HHS, SS	Govt;  Academic Research	2006	 30.802498	 26.820553
+83	z*	15-64	0,08	Includes prescription stimulants	Pakistan	Amphetamines	0,2	0,04	HHS/I	Government/UNODC	2012	 69.345116	 30.375321
+84	f, g	15-64	0,131978537	 	Iran (Islamic Republic of)	Amphetamines	0,159743284	0,10421379	I	Government source	2010		
+85	d, e	15-64	0,43	 	Puerto Rico	Amphetamines	1,06	0,13	SS	Government source	2005	 -66.590149	 18.220833
+86	d, e, z	15-64	0,51	 	Paraguay	Amphetamines			SS	UNODC Estimate	2005	 -58.443832	 -23.442503
+87	d, e, z	15-64	0,7	 	Trinidad and Tobago	Amphetamines	1,38	0,23	SS	UNODC Estimate	2006	 -61.222503	 10.691803
+88	d, e	15-64	0,39	 	Russian Federation	Amphetamines	0,56	0,22	SS	ESPAD	2007		
+89	a, c, d, e	15-64	1,39	 	Lao People's Democratic Republic	Amphetamines	1,71	1,07	SS	Academic research	2008		
+90	d, e	15-64	0,43	 	Bahamas	Amphetamines	1,06	0,13	SS	ARQ	2008	 -77.39628	 25.03428
+91	d, e, z	15-64	0,95	 	Dominican Republic	Amphetamines	2,59	0,04	SS	ARQ	2008	 -70.162651	 18.735693
+92	d, e	15-64	0,35	 	Hong Kong SAR, China	Amphetamines	1,11	0,07	SS	Government source	2008		
+93	b, d, e	15-64	0,56	 	Georgia	Amphetamines	1,06	0,1	SS	Government source/ NGO/Academic research	2009	 43.356892	 42.315407
+94	d	15-64	0,73	 	Luxembourg	Amphetamines	1,25	0,21	SS	ARQ	2010	 6.129583	 49.815273
+95	d, e	15-64	0,81	 	Jamaica	Amphetamines	1,5	0,13	SS	ARQ	2010	 -77.297508	 18.109581
+96	b, d, e	15-64	0,5	 	Bosnia and Herzegovina	Amphetamines	0,91	0,09	SS	ARQ	2011	 17.679076	 43.915886
+97	d, e	15-64	0,72	 	Ukraine	Amphetamines	1,25	0,19	SS	ARQ	2011	 31.16558	 48.379433
+98	d, e	15-64	0,93	 	Iceland	Amphetamines	1,57	0,29	SS	ESPAD	2011	 -19.020835	 64.963051
+99	d, e	15-64	0,72	 	Montenegro	Amphetamines	1,25	0,19	SS	ESPAD	2011	 19.37439	 42.708678
+100	 	15-64	3,5	 	Armenia	Cannabis			 	UNODC Estimate	2003	 45.038189	 40.069099
+101	 	15-64	3,5	 	Cambodia	Cannabis			 	UNODC Estimate	2003	 104.990963	 12.565679
+102	 	15-64	1,6	 	Malaysia	Cannabis			 	UNODC Estimate	2003	 101.975766	 4.210484
+103	e	15-64	4,2	 	Uzbekistan	Cannabis			 	UNODC Estimate	2003	 64.585262	 41.377491
+104	 	15-64	1,7	 	Greece	Cannabis			 	ARQ	2004	 21.824312	 39.074208
+105	 	15-65	3,5	 	Azerbaijan	Cannabis			 	UNODC Estimate	2004	 47.576927	 40.143105
+106	 	déc-64	0,3	 	Taiwan Province of China	Cannabis			 	AMCEWG	2005		
+107	 	déc-65	1,6	 	Paraguay	Cannabis			 	UNODC Estimate	2005	 -58.443832	 -23.442503
+108	 	15-64	3,1	 	Kuwait	Cannabis			 	UNODC Estimate	2005	 47.481766	 29.31166
+109	d, e	15-64	0,94	 	Myanmar	Cannabis			 	UNODC Estimate	2005		
+110	 	15-64	5,35	 	United Arab Emirates	Cannabis			 	UNODC Estimate	2006	 53.847818	 23.424076
+111	d, e	15-64	2,9	 	Burkina Faso	Cannabis			 	UNODC Estimate	2006	 -1.561593	 12.238333
+112	a, b, e	15-64	3,178352023	 	Liberia	Cannabis	4,831544258	1,525159789	 	UNODC Estimate	2008	 -9.429499	 6.428055
+113	a	15-54	1,08	 	Mauritius	Cannabis			 	Government source	2009	 57.552152	 -20.348404
+114	 	15-64	4,2	 	Bhutan	Cannabis	6,5	1,8	 	UNODC Estimate	2009	 90.433601	 27.514162
+115	a, b, e	15-64	5,423099897	 	Sierra Leone	Cannabis	7,324253777	3,521946017	 	UNODC Estimate	2010	 -11.779889	 8.460555
+116	h	15-64	1,431865743	 	Sri Lanka	Cannabis	1,43	1,43	 	UNODC Estimate	2010	 80.771797	 7.873054
+117	a, c	16-64	8,8	 	Brazil	Cannabis			 	UNODC Estimate	2011	 -51.92528	 -14.235004
+118	 	15-64	2,55	 	Maldives	Cannabis			 	Government source	2012	 73.22068	 3.202778
+119	 	15-64	3,6	 	Pakistan	Cannabis	4	3,1	 	Government/UNODC	2012	 69.345116	 30.375321
+120	d, e	déc-65	3,55	 	Panama	Cannabis	3,7	3,4	HHS	UNODC Estimate	2003	 -80.782127	 8.537981
+121	a, e,f	15-54	3,3	 	Bangladesh	Cannabis			HHS	Academic research	2004	 90.356331	 23.684994
+122	 	15-64	4,22	 	Morocco	Cannabis			HHS	ARQ	2004	 -7.09262	 31.791702
+123	c, e	15-64	0,29	 	Republic of Korea	Cannabis	0,55	0,07	HHS	ARQ	2004		
+124	 	déc-65	8,45	 	Belize	Cannabis			HHS	CICAD	2005	 -88.49765	 17.189877
+125	 	15-64	8,3	 	Barbados	Cannabis			HHS	CICAD	2006	 -59.543198	 13.193887
+126	 	déc-65	1,2	 	Thailand	Cannabis			HHS	ARQ	2007	 100.992541	 15.870032
+127	 	déc-65	4,25	 	Suriname	Cannabis	4,7	3,8	HHS	Government source	2007	 -56.027783	 3.919305
+128	b, e	15-65	2,1	 	Kenya	Cannabis	4	0,3	HHS	Govt	2007	 37.906193	 -0.023559
+129	 	18-64	2,3	 	Hungary	Cannabis	2,9	1,7	HHS	ARQ	2007	 19.503304	 47.162494
+130	 	oct-64	0,74	 	Philippines	Cannabis			HHS	ARQ	2008	 121.774017	 12.879721
+131	 	15-64	3,5	 	Austria	Cannabis			HHS	ARQ	2008	 14.550072	 47.516231
+132	 	15-64	6	 	Estonia	Cannabis			HHS	ARQ	2008	 25.013607	 58.595272
+133	a, b, e	15-64	14,3	 	Nigeria	Cannabis	16,83873391	11,75824988	HHS	ARQ	2008	 8.675277	 9.081999
+134	 	15-64	4,28	 	Afghanistan	Cannabis	5,18	3,37	HHS	UNODC/ Govt. Source	2009	 67.709953	 33.93911
+135	 	16-65	10,9	 	Bermuda	Cannabis	11,2	10,7	HHS	Government source	2009	 -64.75737	 32.321384
+136	 	18-40	8,88	 	Israel	Cannabis	8,9	8,9	HHS	ARQ	2009	 34.851612	 31.046051
+137	a	oct-60	0,5	 	Indonesia	Cannabis			HHS	ARQ	2010	 113.921327	 -0.789275
+138	 	déc-65	1,03	 	Peru	Cannabis			HHS	ARQ	2010	 -75.015152	 -9.189967
+139	 	12+	0,52	 	Algeria	Cannabis			HHS	ARQ	2010	 1.659626	 28.033886
+140	 	15-64	2,76	 	Costa Rica	Cannabis			HHS	ARQ	2010	 -83.753428	 9.748917
+141	 	15-64	4,6	 	Finland	Cannabis			HHS	ARQ	2010	 25.748151	 61.92411
+142	 	15-64	3,63	 	Slovakia	Cannabis			HHS	EMCDDA	2010	 19.699024	 48.669026
+143	 	15-64	0,7	 	Republic of Moldova	Cannabis			HHS	Government source	2010		
+144	 	déc-65	3,2	 	Argentina	Cannabis			HHS	ARQ	2011	 -63.616672	 -38.416097
+145	 	déc-65	1,56	 	Venezuela (Bolivarian Republic of)	Cannabis			HHS	Government source	2011		
+146	 	déc-65	1,2	 	Mexico	Cannabis	1,46	0,96	HHS	Government Source	2011	 -102.552784	 23.634501
+147	 	15-64	6	 	Ireland	Cannabis			HHS	ARQ	2011	 -8.24389	 53.41291
+148	 	15-64	4	 	Latvia	Cannabis			HHS	ARQ	2011	 24.603189	 56.879635
+149	 	15-64	0,3	 	Turkey	Cannabis			HHS	EMCDDA	2011	 35.243322	 38.963745
+150	e	15-64	0,3	 	Japan	Cannabis			HHS	UNODC Estimate	2011	 138.252924	 36.204824
+151	 	15-64	5,1	Data refers to 2010/11	United Kingdom (Northern Ireland)	Cannabis			HHS	Government source	2011		
+152	 	15-64	3,5	 	Bulgaria	Cannabis			HHS	ARQ	2012	 25.48583	 42.733883
+153	 	15-64	7,47	 	Chile	Cannabis			HHS	ARQ	2012	 -71.542969	 -35.675147
+154	 	15-64	2,2	 	Cyprus	Cannabis			HHS	ARQ	2012	 33.429859	 35.126413
+155	 	15-64	2,3	 	Lithuania	Cannabis			HHS	ARQ	2012	 23.881275	 55.169438
+156	 	15-64	2,7	 	Portugal	Cannabis			HHS	ARQ	2012	 -8.224454	 39.399872
+157	 	15-64	4,4	 	Slovenia	Cannabis			HHS	ARQ	2012	 14.995463	 46.151241
+158	 	15-64	5	 	Croatia	Cannabis			HHS	EMCDDA	2012	 15.2	 45.1
+159	 	15-64	2,4	 	Cabo Verde	Cannabis			HHS	UNODC/Govt.	2012		
+160	 	18-64	4,5	 	Germany	Cannabis			HHS	ARQ	2012	 10.451526	 51.165691
+161	 	18-67	18,3	 	Iceland	Cannabis			HHS	ARQ	2012	 -19.020835	 64.963051
+162	 	déc-64	0,67	 	Ecuador	Cannabis			HHS	Encuesta Nacional Sobre el uso de drogas	2013	 -78.183406	 -1.831239
+163	 	déc-65	1,27	 	Bolivia (Plurinational State of)	Cannabis			HHS	ARQ	2013		
+164	 	déc-65	3,27	 	Colombia	Cannabis	3,6	2,94	HHS	ARQ	2013	 -74.297333	 4.570868
+165	 	14+	10,2	 	Australia	Cannabis			HHS	ARQ	2013	 133.775136	 -25.274398
+166	 	15-64	4,6	 	Belgium	Cannabis			HHS	ARQ	2013	 4.469936	 50.503887
+167	 	15-64	8,9	 	Czech Republic	Cannabis			HHS	ARQ	2013	 15.472962	 49.817492
+168	 	15-64	9,2	 	Spain	Cannabis			HHS	ARQ	2013	 -3.74922	 40.463667
+169	 	15-64	0,9	 	Malta	Cannabis			HHS	ARQ	2013	 14.375416	 35.937496
+170	 	15-64	2	 	Romania	Cannabis			HHS	ARQ	2013	 24.96676	 45.943161
+171	 	15-64	2,6	 	Tunisia	Cannabis			HHS	ARQ	2013	 9.537499	 33.886917
+172	 	15-64	9,2	Data refers to 2013/14	Italy	Cannabis			HHS	Government source	2013	 12.56738	 41.87194
+173	 	15+	12,7	 	Canada	Cannabis			HHS	ARQ	2013	 -106.346771	 56.130366
+174	 	15+	11	2012/13 New Zealand Health Survey: Drug Module	New Zealand	Cannabis	11,7	10,3	HHS	Government source	2013	 174.885971	 -40.900557
+175	 	16-59	6,6	Data refers to 2013/14. Crime Survey for England and Wales. Data relating to before 2013/14 may vary slightly from more recent data published due to revised reference population.	United Kingdom (England and Wales)	Cannabis			HHS	ARQ	2013		
+176	 	16-64	6,9	 	Denmark	Cannabis			HHS	ARQ	2013	 9.501785	 56.26392
+177	 	16-64	6,5	Data refers to 2012/13	United Kingdom (Scotland)	Cannabis			HHS	Government source	2013		
+178	 	déc-65	2,03	 	El Salvador	Cannabis	3,67	1,12	HHS	Government source	2014	 -88.89653	 13.794185
+179	 	15-64	6,7	 	Switzerland	Cannabis			HHS	ARQ	2014	 8.227512	 46.818188
+180	 	15-64	11,1	 	France	Cannabis			HHS	ARQ	2014	 2.213749	 46.227638
+181	 	15-64	8	 	Netherlands	Cannabis			HHS	ARQ	2014	 5.291266	 52.132633
+182	 	15-64	2,88	 	Sweden	Cannabis			HHS	ARQ	2014	 18.643501	 60.128161
+183	 	15-64	16,2	 	United States of America	Cannabis			HHS	ARQ	2014		
+184	 	15-64	4,6	Data refers to 2014/15	Poland	Cannabis			HHS	ARQ	2014	 19.145136	 51.919438
+185	 	15-65	9,3	 	Uruguay	Cannabis			HHS	ARQ	2014	 -55.765835	 -32.522779
+186	 	16-64	4,2	 	Norway	Cannabis			HHS	ARQ	2014	 8.468946	 60.472024
+187	 	18-64	1,6	 	Serbia	Cannabis			HHS	Government source	2014	 21.005859	 44.016521
+188	 	déc-65	1,07	 	Nicaragua	Cannabis	1,07	1,06	HHS, c	UNODC Estimate	2006	 -85.207229	 12.865416
+189	c, d	déc-65	4,8	 	Guatemala	Cannabis			HHS, SS	UNODC Estimate	2005	 -90.230759	 15.783471
+190	a, d	15-64	6,24	 	Egypt	Cannabis	9,58	2,9	HHS, SS	Govt;  Academic Research	2006	 30.802498	 26.820553
+191	d, e	15-64	0,67	 	Macao SAR, China	Cannabis			R	UNODC Estimate	2003		
+192	 	15-64	0,3	 	Saudi Arabia	Cannabis			R	Government source/ NGO/Academic research	2006	 45.079162	 23.885942
+193	d, e	15-64	7,6	 	Greenland	Cannabis			SS	ESPAD	2003	 -42.604303	 71.706936
+194	d, e	15-64	5,08	 	Fiji	Cannabis	7,12	3,04	SS	Government source	2004	 179.414413	 -16.578193
+195	d, e	15-64	9,5	 	Zambia	Cannabis	15,6	4	SS	Govt;  Academic Research	2004	 27.849332	 -13.133897
+196	d, e	déc-65	0,83	 	Honduras	Cannabis	1,59	0,41	SS	UNODC Estimate	2005	 -86.241905	 15.199999
+197	d, e	15-64	4,88	 	Puerto Rico	Cannabis	6,65	3,1	SS	Government source	2005	 -66.590149	 18.220833
+198	d, e	15-64	1,8	 	Albania	Cannabis			SS	Government source	2006	 20.168331	 41.153332
+199	c, d, e	15-64	1,07	 	Belarus	Cannabis	1,3	0,9	SS	ESPAD	2007	 27.953389	 53.709807
+200	d, e	15-64	3,49	 	Russian Federation	Cannabis	3,51	3,46	SS	ESPAD	2007		
+201	d, e	15-64	5,54	 	Bahamas	Cannabis	7,89	3,2	SS	ARQ	2008	 -77.39628	 25.03428
+202	d, e	15-64	0,31	 	Dominican Republic	Cannabis	1,41	0,25	SS	ARQ	2008	 -70.162651	 18.735693
+203	d, e	15-64	0,63	 	The former Yugoslav Republic of Macedonia	Cannabis	2,38	0,46	SS	ESPAD	2008		
+204	d, e	15-64	0,4	 	Hong Kong SAR, China	Cannabis	1,99	0,23	SS	Government source	2008		
+205	c, d	15-64	0,88	 	Lao People's Democratic Republic	Cannabis	1,07	0,69	SS	UNODC report	2008		
+206	b, d, e	15-64	2,7	 	Georgia	Cannabis	4,3	1,2	SS	Government source/ NGO/Academic research	2009	 43.356892	 42.315407
+207	d, e	15-64	2	 	Lebanon	Cannabis	3,5	0,5	SS	Government source/MEDSPAD	2009	 35.862285	 33.854721
+208	d, e	15-64	1	 	Togo	Cannabis	3,1	0,2	SS	UNODC Estimate	2009	 0.824782	 8.619543
+209	d	15-64	5,2	 	Luxembourg	Cannabis	7,1	3,2	SS	ARQ	2010	 6.129583	 49.815273
+210	d, e	15-64	4,04	 	Guyana	Cannabis	6,53	1,56	SS	UNODC Estimate	2010	 -58.93018	 4.860416
+211	d, e	15-64	1,51	 	Haiti	Cannabis	2,75	0,26	SS	UNODC Estimate	2010	 -72.285215	 18.971187
+212	d, e	15-64	7,21	 	Jamaica	Cannabis	10,17	4,25	SS	UNODC Estimate	2010	 -77.297508	 18.109581
+213	d, e	15-64	8,87	 	Saint Lucia	Cannabis	12,1	5,64	SS	UNODC Estimate	2010	 -60.978893	 13.909444
+214	d, e	15-64	4,03	 	Trinidad and Tobago	Cannabis	6,52	1,55	SS	UNODC Estimate	2010	 -61.222503	 10.691803
+215	d, e	15-64	3,65	 	South Africa	Cannabis	4,42	2,88	SS	ARQ	2011	 22.937506	 -30.559482
+216	d	15-64	1,6	 	Bosnia and Herzegovina	Cannabis	2,888430044	0,320095083	SS	ESPAD	2011	 17.679076	 43.915886
+217	d	15-64	1,9	 	Montenegro	Cannabis	3,302200241	0,426793444	SS	ESPAD	2011	 19.37439	 42.708678
+218	d	15-64	2,9	 	Ukraine	Cannabis	4,6	1,2	SS	UNODC Estimate	2011	 31.16558	 48.379433
+219	d	15-64	2,4	 	Kazakhstan	Cannabis	4,3	0,6	SS	ARQ	2012	 66.923684	 48.019573
+220	d, e	15-64	9,1	 	Madagascar	Cannabis			SS, A	ARQ	2004	 46.869107	 -18.766947
+221	 	15-64	0,04	 	Turkey	Cocaine			 	UNODC Estimate	2003	 35.243322	 38.963745
+222	 	15-64	0,1	 	Greece	Cocaine			 	ARQ	2004	 21.824312	 39.074208
+223	 	15-64	0,05	 	Morocco	Cocaine			 	ARQ	2004	 -7.09262	 31.791702
+224	 	déc-35	0,87	 	Honduras	Cocaine			 	ARQ	2005	 -86.241905	 15.199999
+225	 	15-64	0,1	 	Taiwan Province of China	Cocaine			 	AMCEWG	2005		
+226	g	15-64	0,04	 	Kuwait	Cocaine			 	UNODC Estimate	2005	 47.481766	 29.31166
+227	g	15-64	0,001	 	Syrian Arab Republic	Cocaine			 	UNODC Estimate	2005		
+228	 	15-64	0,08	 	The former Yugoslav Republic of Macedonia	Cocaine			 	INCSR	2007		
+229	 	18-40	1,065	 	Israel	Cocaine	1,19	0,94	 	ARQ	2009	 34.851612	 31.046051
+230	a, c	16-64	1,75	 	Brazil	Cocaine			 	UNODC Estimate	2011	 -51.92528	 -14.235004
+231	 	15-64	0,01	 	Pakistan	Cocaine	0,02	0,0001	 	Government/UNODC	2012	 69.345116	 30.375321
+232	 	déc-64	0,25	 	Paraguay	Cocaine	0,3	0,2	HHS	UNODC Estimate	2003	 -58.443832	 -23.442503
+233	 	déc-65	1,2	 	Panama	Cocaine			HHS	Government source	2003	 -80.782127	 8.537981
+234	e, f	15-64	0,03	 	Republic of Korea	Cocaine			HHS	ARQ	2004		
+235	 	déc-65	0,85	 	Belize	Cocaine			HHS	CICAD	2005	 -88.49765	 17.189877
+236	 	15-64	0,21	 	Guatemala	Cocaine			HHS	ARQ	2005	 -90.230759	 15.783471
+237	 	15-64	0,1	 	Armenia	Cocaine			HHS	UNODC Estimate	2005	 45.038189	 40.069099
+238	 	15-64	0,03	 	Philippines	Cocaine			HHS	UNODC Estimate	2005	 121.774017	 12.879721
+239	 	15-64	0,4	 	Barbados	Cocaine			HHS	CICAD	2006	 -59.543198	 13.193887
+240	 	déc-65	0,3	 	Suriname	Cocaine			HHS	Government source	2007	 -56.027783	 3.919305
+241	e	15-64	0,05	 	Thailand	Cocaine			HHS	ARQ	2007	 100.992541	 15.870032
+242	b, e	15-65	0,3	 	Kenya	Cocaine	0,4	0,2	HHS	Government source	2007	 37.906193	 -0.023559
+243	 	18-64	0,2	 	Hungary	Cocaine	0,4	0	HHS	ARQ	2007	 19.503304	 47.162494
+244	 	15-64	0,9	 	Austria	Cocaine			HHS	ARQ	2008	 14.550072	 47.516231
+245	 	15-64	0,6	 	Estonia	Cocaine			HHS	ARQ	2008	 25.013607	 58.595272
+246	a, b, e	15-64	0,695667161	 	Nigeria	Cocaine	1,112271407	0,279062916	HHS	ARQ	2008	 8.675277	 9.081999
+247	e	15-64	0,04	 	Republic of Moldova	Cocaine	0,06	0,02	HHS	Government sources	2008		
+248	 	16-64	0,6	Cocaine/crack	New Zealand	Cocaine	0,8	0,3	HHS	Government source	2008	 174.885971	 -40.900557
+249	 	15-64	0,001	 	Afghanistan	Cocaine			HHS	UNODC/ Govt. Source	2009	 67.709953	 33.93911
+250	 	16-65	1,3	 	Bermuda	Cocaine	1,6	1	HHS	Government source	2009	 -64.75737	 32.321384
+251	 	oct-60	0,01	 	Indonesia	Cocaine			HHS	ARQ	2010	 113.921327	 -0.789275
+252	 	déc-65	0,696	 	Peru	Cocaine			HHS	Government source	2010	 -75.015152	 -9.189967
+253	 	12+	0,01	 	Algeria	Cocaine			HHS	ARQ	2010	 1.659626	 28.033886
+254	 	15-64	1,06	 	Costa Rica	Cocaine			HHS	ARQ	2010	 -83.753428	 9.748917
+255	 	15-64	0,2	 	Finland	Cocaine			HHS	ARQ	2010	 25.748151	 61.92411
+256	 	15-64	0,2	 	Slovakia	Cocaine			HHS	EMCDDA	2010	 19.699024	 48.669026
+257	 	déc-65	0,73	 	Argentina	Cocaine			HHS	ARQ	2011	 -63.616672	 -38.416097
+258	 	déc-65	0,64	 	Venezuela (Bolivarian Republic of)	Cocaine			HHS	ARQ	2011		
+259	 	déc-65	0,5	 	Mexico	Cocaine	0,64	0,35	HHS	Govt. source (ENA)	2011	 -102.552784	 23.634501
+260	 	15-64	1,5	 	Ireland	Cocaine			HHS	ARQ	2011	 -8.24389	 53.41291
+261	 	15-64	0,2	 	Latvia	Cocaine			HHS	ARQ	2011	 24.603189	 56.879635
+262	 	15-64	1,5	Data refers to 2010/11	United Kingdom (Northern Ireland)	Cocaine			HHS	Government source	2011		
+263	 	15-64	0,2	 	Bulgaria	Cocaine			HHS	ARQ	2012	 25.48583	 42.733883
+264	 	15-64	0,3	 	Cyprus	Cocaine			HHS	ARQ	2012	 33.429859	 35.126413
+265	 	15-64	0,2	 	Lithuania	Cocaine			HHS	ARQ	2012	 23.881275	 55.169438
+266	 	15-64	0,2	 	Portugal	Cocaine			HHS	ARQ	2012	 -8.224454	 39.399872
+267	 	15-64	0,5	 	Slovenia	Cocaine			HHS	ARQ	2012	 14.995463	 46.151241
+268	 	15-64	0,5	 	Croatia	Cocaine			HHS	EMCDDA	2012	 15.2	 45.1
+269	 	15-64	0,042	 	Maldives	Cocaine			HHS	Government source	2012	 73.22068	 3.202778
+270	 	15-64	0,2	 	Cabo Verde	Cocaine			HHS	UNODC/Govt.	2012		
+271	 	18-64	0,8	 	Germany	Cocaine			HHS	ARQ	2012	 10.451526	 51.165691
+272	 	déc-64	0,08	 	Ecuador	Cocaine			HHS	Encuesta Nacional Sobre el uso de drogas	2013	 -78.183406	 -1.831239
+273	 	déc-65	0,36	 	Bolivia (Plurinational State of)	Cocaine			HHS	ARQ	2013		
+274	 	déc-65	0,7	 	Colombia	Cocaine	0,84	0,55	HHS	ARQ	2013	 -74.297333	 4.570868
+275	 	14+	2,1	 	Australia	Cocaine			HHS	ARQ	2013	 133.775136	 -25.274398
+276	 	15-64	0,5	 	Belgium	Cocaine			HHS	ARQ	2013	 4.469936	 50.503887
+277	 	15-64	0,1	 	Czech Republic	Cocaine			HHS	ARQ	2013	 15.472962	 49.817492
+278	 	15-64	2,2	 	Spain	Cocaine			HHS	ARQ	2013	 -3.74922	 40.463667
+279	 	15-64	0,5	 	Malta	Cocaine			HHS	ARQ	2013	 14.375416	 35.937496
+280	 	15-64	0,2	 	Romania	Cocaine			HHS	ARQ	2013	 24.96676	 45.943161
+281	 	15-64	1,1	Data refers to 2013/14	Italy	Cocaine			HHS	Government source	2013	 12.56738	 41.87194
+282	 	15+	1,1	 	Canada	Cocaine			HHS	ARQ	2013	 -106.346771	 56.130366
+283	 	16-59	2,4	Data refers to 2013/14. Crime Survey for England and Wales.  Data relating to before 2013/14 may vary slightly from more recent data published due to revised reference population.	United Kingdom (England and Wales)	Cocaine			HHS	ARQ	2013		
+284	 	16-64	0,9	 	Denmark	Cocaine			HHS	ARQ	2013	 9.501785	 56.26392
+285	 	16-64	2,2	Data refers to 2012/13	United Kingdom (Scotland)	Cocaine			HHS	Government source	2013		
+286	 	17-64	0,38	 	Sweden	Cocaine			HHS	ARQ	2013	 18.643501	 60.128161
+287	 	déc-65	0,37	 	El Salvador	Cocaine	0,47	0,27	HHS	Government Source	2014	 -88.89653	 13.794185
+288	 	15-64	0,5	 	Switzerland	Cocaine			HHS	ARQ	2014	 8.227512	 46.818188
+289	 	15-64	1,73	 	Chile	Cocaine			HHS	ARQ	2014	 -71.542969	 -35.675147
+290	 	15-64	1,1	 	France	Cocaine			HHS	ARQ	2014	 2.213749	 46.227638
+291	 	15-64	1,6	 	Netherlands	Cocaine			HHS	ARQ	2014	 5.291266	 52.132633
+292	 	15-64	2,1	 	United States of America	Cocaine			HHS	ARQ	2014		
+293	 	15-64	0,2	Data refers to 2014/15	Poland	Cocaine			HHS	ARQ	2014	 19.145136	 51.919438
+294	 	15-65	1,8	 	Uruguay	Cocaine			HHS	ARQ	2014	 -55.765835	 -32.522779
+295	 	16-64	1	 	Norway	Cocaine			HHS	ARQ	2014	 8.468946	 60.472024
+296	 	18-64	0,1	 	Serbia	Cocaine			HHS	Government source	2014	 21.005859	 44.016521
+297	 	déc-65	0,69	 	Nicaragua	Cocaine	0,86	0,52	HHS, c	UNODC Estimate	2006	 -85.207229	 12.865416
+298	a, d	15-64	0,02	 	Egypt	Cocaine			HHS, SS	Govt;  Academic Research	2006	 30.802498	 26.820553
+299	f, g	15-64	0,00807488	 	Iran (Islamic Republic of)	Cocaine	0,011599791	0,004549969	I	Government source	2008		
+300	d, e	15-64	0,83	 	Puerto Rico	Cocaine	1,39	0,34	SS	Government source	2005	 -66.590149	 18.220833
+301	d, e	15-64	0,78	 	Albania	Cocaine	1,62	0,01	SS	Government sources	2006	 20.168331	 41.153332
+302	d, e	15-64	0,06	 	Belarus	Cocaine	0,12	0,01	SS	ESPAD	2007	 27.953389	 53.709807
+303	d, e	15-64	0,23	 	Russian Federation	Cocaine	0,29	0,16	SS	ESPAD	2007		
+304	d, e	15-64	0,3	 	Dominican Republic	Cocaine	0,57	0,13	SS	ARQ	2008	 -70.162651	 18.735693
+305	d, e	15-64	0,63	 	Bosnia and Herzegovina	Cocaine	1,92	0,01	SS	ESPAD	2008	 17.679076	 43.915886
+306	d, e	15-64	0,25	 	Hong Kong SAR, China	Cocaine	0,3	0,2	SS	Government source	2008		
+307	d	15-64	1,04	 	Luxembourg	Cocaine	1,8	0,3	SS	ARQ	2010	 6.129583	 49.815273
+308	d, e	15-64	0,88	 	Haiti	Cocaine	1,42	0,34	SS	UNODC Estimate	2010	 -72.285215	 18.971187
+309	d, e	15-64	0,98	 	Jamaica	Cocaine	1,56	0,39	SS	UNODC Estimate	2010	 -77.297508	 18.109581
+310	d, e	15-64	0,6	 	Saint Lucia	Cocaine	1,02	0,19	SS	UNODC Estimate	2010	 -60.978893	 13.909444
+311	d, e	15-64	0,48	 	Trinidad and Tobago	Cocaine	0,84	0,11	SS	UNODC Estimate	2010	 -61.222503	 10.691803
+312	d, e	15-64	1,02	 	South Africa	Cocaine	1,1	0,29	SS	ARQ	2011	 22.937506	 -30.559482
+313	d, e	15-64	0,923319064	 	Iceland	Cocaine	1,501111151	0,345526977	SS	ESPAD	2011	 -19.020835	 64.963051
+314	d, e	15-64	0,517947257	 	Montenegro	Cocaine	0,863131025	0,172763489	SS	ESPAD	2011	 19.37439	 42.708678
+315	d, e	15-64	0,517947257	 	Ukraine	Cocaine	0,863131025	0,172763489	SS	ESPAD	2011	 31.16558	 48.379433
+316	 	15-64	0,02	 	Morocco	Ecstasy			 	ARQ	2003	 -7.09262	 31.791702
+317	 	15-64	0,14	 	Cambodia	Ecstasy			 	UNODC Estimate	2003	 104.990963	 12.565679
+318	 	15-64	0,26	 	Turkey	Ecstasy			 	UNODC Estimate	2003	 35.243322	 38.963745
+319	 	15-64	0,22	 	Viet Nam	Ecstasy			 	UNODC Estimate	2003	 108.277199	 14.058324
+320	d	15-64	0,4	 	Panama	Ecstasy			 	UNODC Estimate	2003	 -80.782127	 8.537981
+321	e, f	15-64	0,3	 	Zambia	Ecstasy			 	UNODC Estimate	2003	 27.849332	 -13.133897
+322	e, g	15-64	0,44	 	Malaysia	Ecstasy			 	UNODC Estimate	2003	 101.975766	 4.210484
+323	 	15-64	0,2	 	Greece	Ecstasy			 	ARQ	2004	 21.824312	 39.074208
+324	d	15-64	0,06	 	Cabo Verde	Ecstasy			 	UNODC Estimate	2004		
+325	a	15-64	0,52	 	Taiwan Province of China	Ecstasy			 	AMCEWG	2005		
+326	 	15-64	0,08	 	Guatemala	Ecstasy			 	UNODC Estimate	2005	 -90.230759	 15.783471
+327	 	15-64	0,09	 	Paraguay	Ecstasy			 	UNODC Estimate	2005	 -58.443832	 -23.442503
+328	d	15-64	0,08	 	Honduras	Ecstasy			 	UNODC Estimate	2005	 -86.241905	 15.199999
+329	c, e	15-64	0,08	 	Republic of Korea	Ecstasy	0,08	0,04	HHS	ARQ	2004		
+330	 	15-64	0,18	 	Philippines	Ecstasy			HHS	Government source	2004	 121.774017	 12.879721
+331	 	déc-65	0,3	 	Belize	Ecstasy			HHS	Government source	2005	 -88.49765	 17.189877
+332	 	15-64	0,1	 	Armenia	Ecstasy			HHS	UNODC Estimate	2005	 45.038189	 40.069099
+333	 	déc-65	0,3	 	Barbados	Ecstasy			HHS	CICAD	2006	 -59.543198	 13.193887
+334	 	15-64	0,3	 	Thailand	Ecstasy			HHS	ARQ	2007	 100.992541	 15.870032
+335	b, e	15-65	0,25	 	Kenya	Ecstasy	0,3	0,2	HHS	Govt	2007	 37.906193	 -0.023559
+336	 	18-64	0,5	 	Hungary	Ecstasy	0,8	0,2	HHS	ARQ	2007	 19.503304	 47.162494
+337	 	15-64	0,5	 	Austria	Ecstasy			HHS	ARQ	2008	 14.550072	 47.516231
+338	 	15-64	0,9	 	Belgium	Ecstasy			HHS	ARQ	2008	 4.469936	 50.503887
+339	 	15-64	1,2	 	Estonia	Ecstasy			HHS	ARQ	2008	 25.013607	 58.595272
+340	 	15-64	0,1	 	Sweden	Ecstasy			HHS	ARQ	2008	 18.643501	 60.128161
+341	e	15-64	0,1	 	Japan	Ecstasy			HHS	UNODC Estimate	2009	 138.252924	 36.204824
+342	 	18-40	1	 	Israel	Ecstasy			HHS	ARQ	2009	 34.851612	 31.046051
+343	 	oct-60	0,19	 	Indonesia	Ecstasy			HHS	ARQ	2010	 113.921327	 -0.789275
+344	 	déc-65	0,04	 	Peru	Ecstasy			HHS	Government source	2010	 -75.015152	 -9.189967
+345	 	12+	0,02	 	Algeria	Ecstasy			HHS	ARQ	2010	 1.659626	 28.033886
+346	 	15-64	0,2	 	Costa Rica	Ecstasy			HHS	ARQ	2010	 -83.753428	 9.748917
+347	 	15-64	0,4	 	Finland	Ecstasy			HHS	ARQ	2010	 25.748151	 61.92411
+348	 	15-64	0,46	 	Slovakia	Ecstasy			HHS	EMCDDA	2010	 19.699024	 48.669026
+349	 	15-64	0,1	 	Republic of Moldova	Ecstasy			HHS	Government sources	2010		
+350	 	déc-65	0,1	 	Argentina	Ecstasy			HHS	ARQ	2011	 -63.616672	 -38.416097
+351	 	déc-65	0,04	 	Mexico	Ecstasy	0,077	0,003	HHS	Government source	2011	 -102.552784	 23.634501
+352	 	15-64	0,4	 	Croatia	Ecstasy			HHS	ARQ	2011	 15.2	 45.1
+353	 	15-64	0,5	 	Ireland	Ecstasy			HHS	ARQ	2011	 -8.24389	 53.41291
+354	 	15-64	0,4	 	Latvia	Ecstasy			HHS	ARQ	2011	 24.603189	 56.879635
+355	 	15-64	0,13	 	Venezuela (Bolivarian Republic of)	Ecstasy			HHS	Government source	2011		
+356	 	15-64	1,1	Data refers to 2010/11	United Kingdom (Northern Ireland)	Ecstasy			HHS	Government source	2011		
+357	 	15-64	1,2	 	Bulgaria	Ecstasy			HHS	ARQ	2012	 25.48583	 42.733883
+358	 	15-64	0,3	 	Cyprus	Ecstasy			HHS	ARQ	2012	 33.429859	 35.126413
+359	 	15-64	0,2	 	Lithuania	Ecstasy			HHS	ARQ	2012	 23.881275	 55.169438
+360	 	15-64	0,3	 	Portugal	Ecstasy			HHS	ARQ	2012	 -8.224454	 39.399872
+361	 	15-64	0,3	 	Slovenia	Ecstasy			HHS	ARQ	2012	 14.995463	 46.151241
+362	 	18-64	0,4	 	Germany	Ecstasy			HHS	ARQ	2012	 10.451526	 51.165691
+363	 	déc-64	0,01	 	Ecuador	Ecstasy			HHS	Encuesta Nacional Sobre el uso de drogas	2013	 -78.183406	 -1.831239
+364	 	déc-65	0,01	 	Bolivia (Plurinational State of)	Ecstasy			HHS	ARQ	2013		
+365	 	déc-65	0,19	 	Colombia	Ecstasy	0,29	0,09	HHS	ARQ	2013	 -74.297333	 4.570868
+366	 	14+	2,5	 	Australia	Ecstasy			HHS	Government source	2013	 133.775136	 -25.274398
+367	 	15-64	0,22	 	Switzerland	Ecstasy			HHS	ARQ	2013	 8.227512	 46.818188
+368	 	15-64	1,1	 	Czech Republic	Ecstasy			HHS	ARQ	2013	 15.472962	 49.817492
+369	 	15-64	0,7	 	Spain	Ecstasy			HHS	ARQ	2013	 -3.74922	 40.463667
+370	 	15-64	0,3	 	Romania	Ecstasy			HHS	ARQ	2013	 24.96676	 45.943161
+371	 	15-64	0,4	Data refers to 2013/14. New Survey reported	Italy	Ecstasy			HHS	Government source	2013	 12.56738	 41.87194
+372	 	15+	0,5	 	Canada	Ecstasy			HHS	ARQ	2013	 -106.346771	 56.130366
+373	 	15+	2	2012/13 New Zealand Health Survey: Drug Module	New Zealand	Ecstasy	2,4	1,7	HHS	Government source	2013	 174.885971	 -40.900557
+374	 	16-59	1,6	Data refers to 2013/14. Crime Survey for England and Wales. Data relating to before 2013/14 may vary slightly from more recent data published due to revised reference population.	United Kingdom (England and Wales)	Ecstasy			HHS	ARQ	2013		
+375	 	16-64	0,2	 	Denmark	Ecstasy			HHS	ARQ	2013	 9.501785	 56.26392
+376	 	16-64	0,4	 	Norway	Ecstasy			HHS	ARQ	2013	 8.468946	 60.472024
+377	 	16-64	1,7	Data refers to 2012/13	United Kingdom (Scotland)	Ecstasy			HHS	Government source	2013		
+378	 	déc-65	0,02	 	El Salvador	Ecstasy			HHS	Government source	2014	 -88.89653	 13.794185
+379	 	15-64	0,08	 	Chile	Ecstasy			HHS	ARQ	2014	 -71.542969	 -35.675147
+380	 	15-64	0,9	 	France	Ecstasy			HHS	ARQ	2014	 2.213749	 46.227638
+381	 	15-64	2,5	 	Netherlands	Ecstasy			HHS	ARQ	2014	 5.291266	 52.132633
+382	 	15-64	1,1	 	United States of America	Ecstasy			HHS	ARQ	2014		
+383	 	15-64	0,3	Data refers to 2014/15	Poland	Ecstasy			HHS	ARQ	2014	 19.145136	 51.919438
+384	 	15-65	0,4	 	Uruguay	Ecstasy			HHS	ARQ	2014	 -55.765835	 -32.522779
+385	 	18-64	0,1	 	Serbia	Ecstasy			HHS	Government sources	2014	 21.005859	 44.016521
+386	e	déc-65	0,01	 	Nicaragua	Ecstasy	0,02	0,001	HHS, c	UNODC Estimate	2006	 -85.207229	 12.865416
+387	e	déc-65	0,1	 	Suriname	Ecstasy	0,21	0,01	HHS, c	Government source	2007	 -56.027783	 3.919305
+388	 	15-64	0,42	 	Puerto Rico	Ecstasy	0,99	0,09	SS	Government source	2005	 -66.590149	 18.220833
+389	c, d, e	15-64	0,31	 	Belarus	Ecstasy	0,33	0,3	SS	ESPAD	2007	 27.953389	 53.709807
+390	d, e	15-64	0,68	 	Russian Federation	Ecstasy			SS	ESPAD	2007		
+391	d, e	15-64	0,75	 	The former Yugoslav Republic of Macedonia	Ecstasy	1,82	0,2	SS	ESPAD	2008		
+392	d, e	15-64	0,11	 	Bahamas	Ecstasy	0,6	0,04	SS	Government source	2008	 -77.39628	 25.03428
+393	d, e	15-64	0,05	 	Dominican Republic	Ecstasy	0,52	0,02	SS	Government source	2008	 -70.162651	 18.735693
+394	d, e	15-64	0,24	 	Hong Kong SAR, China	Ecstasy	0,76	0,06	SS	Government source	2008		
+395	a, b, d, e	15-64	0,54	 	Georgia	Ecstasy	0,91	0,17	SS	ARQ	2009	 43.356892	 42.315407
+396	d, e	15-64	1	 	Lebanon	Ecstasy	1,7	0,3	SS	Government source/ NGO/Academic research	2009	 35.862285	 33.854721
+397	d	15-64	0,48	 	Luxembourg	Ecstasy	0,86	0,11	SS	ARQ	2010	 6.129583	 49.815273
+398	d, e	15-64	0,16	 	Brazil	Ecstasy	0,29	0,03	SS	ARQ	2010	 -51.92528	 -14.235004
+399	d, e	15-64	0,28	 	Guyana	Ecstasy	0,48	0,08	SS	UNODC Estimate	2010	 -58.93018	 4.860416
+400	d, e	15-64	0,24	 	Haiti	Ecstasy	0,41	0,06	SS	UNODC Estimate	2010	 -72.285215	 18.971187
+401	d, e	15-64	0,23	 	Jamaica	Ecstasy	0,4	0,06	SS	UNODC Estimate	2010	 -77.297508	 18.109581
+402	d, e	15-64	0,17	 	Saint Lucia	Ecstasy	0,3	0,03	SS	UNODC Estimate	2010	 -60.978893	 13.909444
+403	d, e	15-64	0,14	 	Trinidad and Tobago	Ecstasy	0,26	0,02	SS	UNODC Estimate	2010	 -61.222503	 10.691803
+404	b, d	15-64	0,5	 	Bosnia and Herzegovina	Ecstasy	0,88	0,11	SS	ARQ	2011	 17.679076	 43.915886
+405	b, d, e	15-64	0,31	 	South Africa	Ecstasy	0,38	0,24	SS	ARQ	2011	 22.937506	 -30.559482
+406	d	15-64	1,19	 	Albania	Ecstasy	1,84	0,54	SS	ESPAD	2011	 20.168331	 41.153332
+407	d	15-64	0,58	 	Iceland	Ecstasy	1	0,16	SS	ESPAD	2011	 -19.020835	 64.963051
+408	d	15-64	0,86	 	Malta	Ecstasy	1,4	0,31	SS	ESPAD	2011	 14.375416	 35.937496
+409	d	15-64	0,86	 	Montenegro	Ecstasy	1,4	0,31	SS	ESPAD	2011	 19.37439	 42.708678
+410	d, e	15-64	0,93	 	Ukraine	Ecstasy	1,49	0,37	SS	ESPAD	2011	 31.16558	 48.379433
+411	 	15-64	0,07	 	Bolivia (Plurinational State of)	Opioids			 		2004		
+412	 	15-64	0,17	Includes heroin and prescription opioids	Democratic Republic of the Congo	Opioids			 		2004		
+413	 	15-64	0,05	Opiates	Central African Republic	Opioids			 		2004	 20.939444	 6.611111
+414	 	15-64	0,13	Opiates	Congo	Opioids			 		2004		
+415	 	15-64	0,17	Opiates	Liberia	Opioids			 		2004	 -9.429499	 6.428055
+416	 	15-64	0,14	Opiates	Rwanda	Opioids			 		2004	 29.873888	 -1.940278
+417	 	15-64	0,17	Opiates	Sierra Leone	Opioids			 		2004	 -11.779889	 8.460555
+418	 	15-64	0,16	Opiates	Somalia	Opioids			 		2004	 46.199616	 5.152149
+419	 	15-64	0,17	Opiates	Swaziland	Opioids			 		2004	 31.465866	 -26.522503
+420	 	15-64	0,22	Opiates	Chad	Opioids			 		2004	 18.732207	 15.454166
+421	 	15-64	0,05	Opiates	Uganda	Opioids			 		2004	 32.290275	 1.373333
+422	 	15-64	0,04	Opiates	Zimbabwe	Opioids			 		2004	 29.154857	 -19.015438
+423	 	15-64	0,02	Opiates	United Arab Emirates	Opioids			 		2004	 53.847818	 23.424076
+424	 	15-64	0,18	Opiates	Cabo Verde	Opioids			 		2004		
+425	 	15-64	0,17	Opiates	Kuwait	Opioids			 		2004	 47.481766	 29.31166
+426	 	15-64	0,14	Opiates	Libya	Opioids			 		2004	 17.228331	 26.3351
+427	 	15-65	0,14	Opiates	Ghana	Opioids			 		2004	 -1.023194	 7.946527
+428	 	 	0,02	Opiates	Syrian Arab Republic	Opioids			 		2005		
+429	 	déc-64	0,2	Opiates	Taiwan Province of China	Opioids			 		2005		
+430	 	déc-64	0,18	Opiates	Peru	Opioids			 		2005	 -75.015152	 -9.189967
+431	x	15-64	0,5	Includes prescription opioids	The former Yugoslav Republic of Macedonia	Opioids			 		2005		
+432	 	15-65	0,04	Opiates	Guatemala	Opioids			 		2005	 -90.230759	 15.783471
+433	x	15-64	0,23	Includes heroin and prescription opioids	Barbados	Opioids	0,29	0,16	 		2006	 -59.543198	 13.193887
+434	 	15-64	0,2	Opiates	Hong Kong SAR, China	Opioids			 		2006		
+435	 	15-64	0,06	Opiates	Saudi Arabia	Opioids			 		2006	 45.079162	 23.885942
+436	 	15-64	0,7	Opiates	Nigeria	Opioids	1	0,3	 		2008	 8.675277	 9.081999
+437	 	15-64	2,274984333	Opiates	Iran (Islamic Republic of)	Opioids			 		2010		
+438	 	15-64	2,3	Opiates	Seychelles	Opioids			 		2011	 55.491977	 -4.679574
+439	x	15-64	5,41	Includes prescription opioids	United States of America	Opioids			 		2014		
+440	a, e, x	15-64	0,4	Includes prescription opioids	Bangladesh	Opioids			HHS		2003	 90.356331	 23.684994
+441	a,e	15-64	0,001	 	Republic of Korea	Opioids			HHS		2004		
+442	e	déc-65	0,5	 	Brazil	Opioids			HHS		2005	 -51.92528	 -14.235004
+443	 	déc-65	0,3	Opiates	Belize	Opioids			HHS		2005	 -88.49765	 17.189877
+444	e, x	15-64	0,14	Includes prescription opioids	El Salvador	Opioids			HHS		2005	 -88.89653	 13.794185
+445	e	15-64	0,15	Opiates	Honduras	Opioids			HHS		2005	 -86.241905	 15.199999
+446	 	déc-65	0,02	Opiates	Nicaragua	Opioids			HHS		2006	 -85.207229	 12.865416
+447	 	15-64	0,2	Opiates	Thailand	Opioids			HHS		2007	 100.992541	 15.870032
+448	x	15-64	0,5	Includes prescription opioids	South Africa	Opioids			HHS		2008	 22.937506	 -30.559482
+449	a, c	15-64	0,37	Opiates	Lao People's Democratic Republic	Opioids			HHS		2008		
+450	x	16-64	1,1	Prescription opioids and/or opiates	New Zealand	Opioids	1,4	0,8	HHS		2008	 174.885971	 -40.900557
+451	x	15-64	2,92	Includes prescription opioids	Afghanistan	Opioids	3,2	2,65	HHS		2009	 67.709953	 33.93911
+452	 	16-65	0,15	 	Bermuda	Opioids	0,2	0,1	HHS		2009	 -64.75737	 32.321384
+453	 	18-40	0,53	 	Israel	Opioids	0,59	0,46	HHS		2009	 34.851612	 31.046051
+454	 	déc-70	0,001	 	Costa Rica	Opioids			HHS		2010	 -83.753428	 9.748917
+455	 	12+	0,055	Opiates	Algeria	Opioids	0,06	0,05	HHS		2010	 1.659626	 28.033886
+456	a,c	15-64	0,8	Opiates	Myanmar	Opioids	0,9	0,7	HHS		2010		
+457	x	déc-65	0,38	include prescription opioids	Mexico	Opioids	0,561	0,194	HHS		2011	 -102.552784	 23.634501
+458	 	déc-65	0,03	Opiates	Venezuela (Bolivarian Republic of)	Opioids			HHS		2011		
+459	e, x	15-64	0,18	 	Uruguay	Opioids	0,3	0,05	HHS		2011	 -55.765835	 -32.522779
+460	x	15-64	0,1	Includes prescription opioids	Argentina	Opioids			HHS		2011	 -63.616672	 -38.416097
+461	 	15-64	1,46	Includes prescription opioids	Maldives	Opioids			HHS		2012	 73.22068	 3.202778
+462	 	déc-64	0,01	Opiates	Ecuador	Opioids			HHS		2013	 -78.183406	 -1.831239
+463	 	déc-65	0,03	Opiates	Colombia	Opioids			HHS		2013	 -74.297333	 4.570868
+464	x	14+	3,3	Includes prescription/other opioids	Australia	Opioids			HHS		2013	 133.775136	 -25.274398
+465	 	15-64	0,2	Opioid users	Belgium	Opioids			HHS		2013	 4.469936	 50.503887
+466	 	15+	2	 	Canada	Opioids			HHS		2013	 -106.346771	 56.130366
+467	 	17-64	0,53	Opioids	Sweden	Opioids			HHS		2013	 18.643501	 60.128161
+468	 	15-64	0,1	Opiates	Switzerland	Opioids			HHS		2014	 8.227512	 46.818188
+469	x	15-64	0,58	Opioids, inludes prescription opioids	Chile	Opioids			HHS		2014	 -71.542969	 -35.675147
+470	x	18-64	5,15	Includes prescription opioids	Serbia	Opioids			HHS		2014	 21.005859	 44.016521
+471	a, d	15-64	0,44	Opiates	Egypt	Opioids	0,73	0,14	HHS, SS		2006	 30.802498	 26.820553
+472	x	15-64	2,4	Includes prescription opioids	Pakistan	Opioids	3,1	2	HHS/I		2012	 69.345116	 30.375321
+473	 	15-64	0,2	Problem opiate users	Niger	Opioids			I		2004	 8.081666	 17.607789
+474	x	15-64	1	Includes prescription opioids	Kazakhstan	Opioids			I		2006	 66.923684	 48.019573
+475	x	15-64	0,8	Includes prescription opioids	Kyrgyzstan	Opioids			I		2006	 74.766098	 41.20438
+476	x	15-64	0,54	Includes prescription opioids	Tajikistan	Opioids			I		2006	 71.276093	 38.861034
+477	x	15-64	0,8	Includes prescription opioids	Uzbekistan	Opioids			I		2006	 64.585262	 41.377491
+478	 	15-64	0,72	Problem opiate users	Ireland	Opioids	0,81	0,62	I		2006	 -8.24389	 53.41291
+479	 	15-64	0,12	Problem opiate users	United Kingdom (Northern Ireland)	Opioids	0,16	0,11	I		2006		
+480	 	15-64	0,59	Problem heroin users	Luxembourg	Opioids			I		2007	 6.129583	 49.815273
+481	 	15-64	0,24	Problem opiate users	Lithuania	Opioids	0,24	0,23	I		2007	 23.881275	 55.169438
+482	 	15-64	0,03502168	Problem opiate users	Cambodia	Opioids			I		2007	 104.990963	 12.565679
+483	 	15-64	0,13	Problem opiate users	Slovakia	Opioids	0,25	0,1	I		2008	 19.699024	 48.669026
+484	x	15-64	1,534574903	Problem Opioid users	Estonia	Opioids			I		2008	 25.013607	 58.595272
+485	x	15-64	0,16	Includes prescription opioids	Armenia	Opioids	0,2	0,14	I		2009	 45.038189	 40.069099
+486	a,x	15-64	1,29	Opioids, includes prescription opioids	Mauritius	Opioids			I		2009	 57.552152	 -20.348404
+487	 	15-64	0,3	Problem opiate users	Bosnia and Herzegovina	Opioids			I		2009	 17.679076	 43.915886
+488	 	15-64	0,52224351	Problem opiate users	Denmark	Opioids	0,552607973	0,491879046	I		2009	 9.501785	 56.26392
+489	 	15-64	0,94	Problem opiate users	Malaysia	Opioids			I		2009	 101.975766	 4.210484
+490	x	15-64	1,36449522	Includes prescription opioids	Georgia	Opioids	1,398607601	1,33038284	I		2010	 43.356892	 42.315407
+491	 	15-64	0,330442983	Includes prescription opioids	Singapore	Opioids	0,378583455	0,28230251	I		2010	 103.819836	 1.352083
+492	 	15-64	0,32569341	Opiates	Sri Lanka	Opioids	0,33	0,33	I		2010	 80.771797	 7.873054
+493	 	15-64	0,107917287	Problem opiate users	Indonesia	Opioids			I		2010	 113.921327	 -0.789275
+494	 	15-64	0,361	Problem opiate users	Croatia	Opioids	0,399	0,323	I		2010	 15.2	 45.1
+495	 	15-64	1,500542094	Problem opiate users	Azerbaijan	Opioids	1,719148053	1,281936134	I		2010	 47.576927	 40.143105
+496	x	15-64	0,510934991	Includes prescription opioids	Bulgaria	Opioids			I		2011	 25.48583	 42.733883
+497	 	15-64	0,52	Problem opiate users	France	Opioids			I		2011	 2.213749	 46.227638
+498	 	15-64	0,121234171	Problem opiate users	Republic of Moldova	Opioids			I		2011		
+499	 	15-64	0,113105101	Problem opiate users	Romania	Opioids			I		2011	 24.96676	 45.943161
+500	 	15-64	0,048	Problem opiate users	Hungary	Opioids	0,053	0,043	I		2011	 19.503304	 47.162494
+501	 	15-64	0,026	Problem opiate users	Turkey	Opioids	0,054	0,022	I		2011	 35.243322	 38.963745
+502	 	15-64	0,083546508	Problem opiate users	Morocco	Opioids			I		2011	 -7.09262	 31.791702
+503	 	15-64	0,04	Problem opiate users	Philippines	Opioids	0,04	0,03	I		2011	 121.774017	 12.879721
+504	 	15-64	0,121856343	Problem opiate users	Tunisia	Opioids			I		2011	 9.537499	 33.886917
+505	 	15-64	0,53	Problem opiate users	Viet Nam	Opioids			I		2011	 108.277199	 14.058324
+506	h,g	15-64	0,586121694	Problem opiate users	Belarus	Opioids			I		2011	 27.953389	 53.709807
+507	 	15-64	0,75	Data refers to 2011/12. Problem opiate users	United Kingdom (England and Wales)	Opioids	0,78	0,73	I		2012		
+508	 	15-64	0,126	Problem opiate users	Netherlands	Opioids	0,147	0,114	I		2012	 5.291266	 52.132633
+509	 	15-64	0,29	Problem opiate users	Portugal	Opioids			I		2012	 -8.224454	 39.399872
+510	 	15-64	0,49	Problem opiate users	Slovenia	Opioids	0,58	0,43	I		2012	 14.995463	 46.151241
+511	 	15-64	0,215181775	Problem opiate users	Kenya	Opioids			I		2012	 37.906193	 -0.023559
+512	 	15-64	1,05	Problem opiate users	Ukraine	Opioids	1,23	0,88	I		2012	 31.16558	 48.379433
+513	 	15-64	0,19	Problem opiate users	China	Opioids	0,25	0,13	I		2012	 104.195397	 35.86166
+514	 	15-64	0,618	Problem Opiate users	Malta	Opioids	0,664	0,581	I		2012	 14.375416	 35.937496
+515	 	15-64	0,41	Problem opioid users	Finland	Opioids	0,45	0,38	I		2012	 25.748151	 61.92411
+516	 	15-64	1,51	Data refers to 2012/13. Estimated as 90% of opiate and benzodiazepine users DORIS	United Kingdom (Scotland)	Opioids	1,57	1,47	I		2013		
+517	 	15-64	0,29	Problem opiate users	Germany	Opioids			I		2013	 10.451526	 51.165691
+518	 	15-64	0,27	Problem opiate users	Norway	Opioids			I		2013	 8.468946	 60.472024
+519	 	15-64	0,1	Problem opiate users	Poland	Opioids			I		2013	 19.145136	 51.919438
+520	 	15-64	0,5	Problem opiate users	Austria	Opioids	0,51	0,49	I		2013	 14.550072	 47.516231
+521	 	15-64	0,15	Problem opiate users	Cyprus	Opioids	0,21	0,12	I		2013	 33.429859	 35.126413
+522	 	15-64	0,22	Problem opiate users	Greece	Opioids	2,57	0,96	I		2013	 21.824312	 39.074208
+523	 	15-64	0,62	Problem opiate users	Latvia	Opioids	1	0,42	I		2013	 24.603189	 56.879635
+524	 	15-64	0,8	Problem opiate users	Italy	Opioids			I		2013	 12.56738	 41.87194
+525	 	15-64	0,21	Problem opiate users	Spain	Opioids	0,25	0,16	I		2013	 -3.74922	 40.463667
+526	 	15-64	0,15	Problem Opiate users (Heroin, but includes methadone, buprenorphine)	Czech Republic	Opioids			I		2013	 15.472962	 49.817492
+527	 	15-64	0,24	Problem opiate users	Nepal	Opioids	0,29	0,18	I, b		2006	 84.124008	 28.394857
+528	 	15-64	0,32	Opiates	Turkmenistan	Opioids			R		2007	 59.556278	 38.969719
+529	h,g	15-64	0,45	Problem opiate users	Albania	Opioids			R		2007	 20.168331	 41.153332
+530	x	15-64	2,288852103	Includes prescription/other opioids	Russian Federation	Opioids			R, I		2010		
+531	a, b	15-64	0,2	Mainly opiates	Liechtenstein	Opioids			SS		2005	 9.555373	 47.166
+532	a, d, e, x	15-64	0,2	Includes prescription opioids	Haiti	Opioids	0,22	0,19	SS		2006	 -72.285215	 18.971187
+533	d,e	15-64	1	Includes prescription opioids	Jamaica	Opioids	1,5	0,5	SS		2006	 -77.297508	 18.109581
+534	a, d, e	15-64	0,08	Opiates	Senegal	Opioids			SS		2006	 -14.452362	 14.497401
+535	d	15-64	0,068058903	 	Dominican Republic	Opioids	0,085078157	0,05103965	SS		2008	 -70.162651	 18.735693
