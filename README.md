@@ -8,7 +8,7 @@ Voici le site sur lequel nous avons trouvé notre dataset brut : https://public.
 
 
 Pour que le dashboard fonctionne, il faut :
-    - Télécharger "Dash3.py" '\n'
+    - Télécharger "Dash3.py" `\n`
     - S'assurer que toutes les librairies sont installées sur la machine
     - Installer ChromeDriver (pour Chrome v78) et changer "l'executable_path", présent dans la variable "d", ligne 21, avec VOTRE path (où se trouve chromedriver sur votre ordinateur)
     - S'assurer d'avoir la version 78 de Google Chrome installée et effective
