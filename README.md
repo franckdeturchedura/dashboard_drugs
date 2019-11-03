@@ -5,6 +5,8 @@ Yasmine Djemame
 
 Voici la notice d'utilisation du Dashboard final.
 
+Nous avons utilisé deux datasets : un pour avoir les données sur les drogues et un pour avoir les coordonnées géographiques. Nous les regroupons en un seul dans le script pour pouvoir faire tout ce qu'on veut.
+
 Sur le dashboard vous trouverez également un lien vers le CSV final utilisé (après modification dans le script de l'initial).
 
 Voici le site sur lequel nous avons trouvé notre dataset brut : https://public.tableau.com/profile/umidjon.rahmonberdiev#!/vizhome/WDR2016-Useofdrugs/Full
