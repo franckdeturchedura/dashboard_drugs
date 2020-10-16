@@ -39,7 +39,7 @@ Il y a un dropdown pour les deux graphes.
 Vous pouvez également accéder au Git via le bouton 'View Git'.
 Avec le bouton "Actualiser", vous pouvez connaître en temps réel la quantité d'argent dépensée dans les drogues illégales depuis le début de l'année dans le monde.
 
-### Analyse des résultats
+## Analyse des résultats
 
 Description - Analyse (Check ReadMe to see more):
     Nous constatons que via la Map que les drogues douces (cannabis) sont bien plus présentes que les drogues dures (les autres). 
