@@ -1,9 +1,10 @@
-# Mini Projet Python
+# Dashboard sur les drogues dans le monde - Projet ESIEE Paris
 
-Franck Deturche-Dura
-Yasmine Djemame
+@authors Franck Deturche-Dura, Yasmine Djemame
 
-Voici la notice d'utilisation du Dashboard final.
+## Notice d'utilisation
+
+### Datasets 
 
 Nous avons utilisé deux datasets : un pour avoir les données sur les drogues et un pour avoir les coordonnées géographiques. Nous les regroupons en un seul dans le script pour pouvoir faire tout ce qu'on veut.
 
@@ -11,6 +12,7 @@ Sur le dashboard vous trouverez également un lien vers le CSV final utilisé (a
 
 Voici le site sur lequel nous avons trouvé notre dataset brut : https://public.tableau.com/profile/umidjon.rahmonberdiev#!/vizhome/WDR2016-Useofdrugs/Full
 
+### Initialisation et exécution
 
 Pour que le dashboard fonctionne, il faut :
     - Télécharger "Dash3.py" 
@@ -24,6 +26,7 @@ Pour que le dashboard fonctionne, il faut :
 Au cas où il y a un problème lié à Selenium et ChromeDriver pour le scrapping over JS, il existe une version sans selenium. Voilà comment y accéder :
     - Télécharger "dash_without_dynamic.py" dans la branche du même nom et reprendre les étapes citées précédemment.
 
+### Autres informations
 
 Nous avons utiisé bootstrap pour le design (via la librairie dash-bootstrap-components)
 Dans la navbar :
@@ -36,6 +39,7 @@ Il y a un dropdown pour les deux graphes.
 Vous pouvez également accéder au Git via le bouton 'View Git'.
 Avec le bouton "Actualiser", vous pouvez connaître en temps réel la quantité d'argent dépensée dans les drogues illégales depuis le début de l'année dans le monde.
 
+### Analyse des résultats
 
 Description - Analyse (Check ReadMe to see more):
     Nous constatons que via la Map que les drogues douces (cannabis) sont bien plus présentes que les drogues dures (les autres). 
