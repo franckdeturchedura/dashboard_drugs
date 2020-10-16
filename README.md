@@ -10,18 +10,18 @@ Nous avons utilisé deux datasets : un pour avoir les données sur les drogues e
 
 Sur le dashboard vous trouverez également un lien vers le CSV final utilisé (après modification dans le script de l'initial).
 
-Voici le site sur lequel nous avons trouvé notre dataset brut : https://public.tableau.com/profile/umidjon.rahmonberdiev#!/vizhome/WDR2016-Useofdrugs/Full
+Voici le site sur lequel nous avons trouvé notre dataset brut : **https://public.tableau.com/profile/umidjon.rahmonberdiev#!/vizhome/WDR2016-Useofdrugs/Full**
 
 ### Initialisation et exécution
 
 Pour que le dashboard fonctionne, il faut :
-    - Télécharger "Dash3.py" 
+    - Télécharger `Dash3.py` 
     - S'assurer que toutes les librairies sont installées sur la machine
-    - Installer ChromeDriver (pour Chrome v78) et changer "l'executable_path", présent dans la variable "d", ligne 21, avec VOTRE path (où se trouve chromedriver sur votre ordinateur)
+    - Installer ChromeDriver (pour Chrome v78) et changer `l'executable_path`, présent dans la variable `d`, ligne 21, avec VOTRE path (où se trouve chromedriver sur votre ordinateur)
     - S'assurer d'avoir la version 78 de Google Chrome installée et effective
     - Télécharger dans le répertoire courant de "dash3.py" les fichiers dataset.xlsx (c'est normal, il est converti en csv dans le script) et countries.csv. Les autres sont créés via le script, ils sont disponibles sur le Repo au cas où.
     - Lancer le script avec Python 3.
-    - Se connecter à "http://127.0.0.1:8050/" (le chemin est spécifié dans le terminal)
+    - Se connecter à `http://127.0.0.1:8050/` (le chemin est spécifié dans le terminal)
 
 Au cas où il y a un problème lié à Selenium et ChromeDriver pour le scrapping over JS, il existe une version sans selenium. Voilà comment y accéder :
     - Télécharger "dash_without_dynamic.py" dans la branche du même nom et reprendre les étapes citées précédemment.
@@ -36,7 +36,7 @@ Vous trouverez un bouton pour dowload le fichier csv comme expliqué précédemm
 
 Il y a un slider et un dropdown pour la map. Les Markers sur la Map vous indique le nom du pays et le rate.
 Il y a un dropdown pour les deux graphes.
-Vous pouvez également accéder au Git via le bouton 'View Git'.
+Vous pouvez également accéder au Git via le bouton `View Git`.
 Avec le bouton "Actualiser", vous pouvez connaître en temps réel la quantité d'argent dépensée dans les drogues illégales depuis le début de l'année dans le monde.
 
 ## Analyse des résultats
